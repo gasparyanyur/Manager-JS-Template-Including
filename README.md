@@ -19,4 +19,4 @@ In your Script you must have
 Manager.Route('abc','templates/abc.html','content') 
 
 In your Html you must have
-<div content-view="content"></div>
+< tagname content-view="content" > </ tagname >
